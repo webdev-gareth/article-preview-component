@@ -165,4 +165,8 @@ div.share-menu {
     .acknowledgement {
         margin-top: 30px;
     }
+    div.share-menu {
+        position: absolute;
+        left: -3rem;
+    }
 }
